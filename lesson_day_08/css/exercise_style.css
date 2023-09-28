@@ -1,0 +1,104 @@
+ h3 {
+     color: navy;
+ }
+
+ p {
+     color: #fb7d9e;
+ }
+
+ strong {
+     color: rgb(123, 13, 23);
+ }
+
+ div {
+     height: 300px;
+     width: 400px;
+     background-color: blue;
+ }
+
+ div div {
+     height: 50px;
+     width: 150px;
+     background-color: pink;
+ }
+
+ #lesson05 {
+     background-color: orange;
+ }
+
+ #lesson05 span {
+     background-color: darkblue;
+ }
+
+ span {
+     background-color: white;
+ }
+
+ .lesson06 h1 {
+     background-color: #fb7d9e;
+ }
+
+ .lesson06 h2 {
+     background-color: blueviolet;
+ }
+
+ .lesson06 h3 {
+     background-color: crimson;
+ }
+
+ .lesson06 h4 {
+     background-color: aqua;
+ }
+
+ #d1 {
+     background-color: aqua;
+ }
+
+ #d2 {
+     background-color: blueviolet;
+ }
+
+ #d3 {
+     background-color: aquamarine;
+ }
+
+ td {
+     background-color: bisque;
+ }
+
+ div #a1 {
+     background-color: aqua;
+     height: 300px;
+     width: 300px;
+ }
+
+ body {
+     background-color: #86ffff;
+ }
+
+ #s1 {
+     background-color: cadetblue;
+     height: 250px;
+     width: 600px;
+ }
+
+ #s2 {
+     background-color: wheat;
+     width: 80px;
+     height: 80px;
+     border-radius: 50%;
+ }
+
+ #s3 {
+     background-color: beige;
+     width: 100px;
+     height: 100px;
+ }
+
+ #s4 {
+     background-color: #fb7d9e;
+     width: 500px;
+     height: 60px;
+     color: rgb(137, 14, 137);
+
+ }
