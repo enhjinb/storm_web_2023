@@ -1,0 +1,46 @@
+.ily {
+    background-color: hotpink;
+    width: 300px;
+    height: 200px;
+}
+.co {
+    width: 500px;
+    height: 300px;
+    background-color: aqua;
+    font-size: large;
+}
+.lo {
+    width: 200px;
+    height: 200px;
+    background-color: azure;
+}
+.om {
+    height: 300px;
+    width: 300px;
+    overflow-y: scroll ;
+    background-color: aquamarine;
+}
+.hh {
+    max-height: 300px;
+    min-height: 100px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+#a2 {
+    
+    max-width: 300px;
+    background-color: aqua;
+    overflow-x: scroll;
+
+}
+#a2 p {
+    width: 500px;
+}
+.sw {
+    width: 200px;
+    height: 200px;
+
+}.sw img {
+    width: 100%;
+    height: auto;
+}

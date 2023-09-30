@@ -1,0 +1,44 @@
+h2 {
+    font-weight: bold;
+}
+
+#a1 {
+    font-style: italic;
+}
+
+#a2 {
+    text-transform: uppercase;
+}
+
+#a3 {
+    text-decoration: line-through;
+}
+
+#a4 {
+    text-decoration: underline;
+}
+
+#a5 {
+    color: hotpink;
+}
+
+#a5:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#a5:visited {
+    color: coral;
+}
+#a6 {
+    text-transform: capitalize;
+}
+.bold {
+    font-weight: bold;
+}
+.line {
+    text-decoration: line-through;
+}
+.underline {
+    text-decoration: underline;
+}
