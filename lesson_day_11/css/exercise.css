@@ -1,0 +1,27 @@
+body {
+    width: 900px;
+    height: 750px;
+    background-color: aliceblue;
+}
+
+.das1 {
+    position: absolute;
+    left: 257px;
+    top: 90px;
+}
+.das2 {
+    background-color: yellow;
+    position: absolute;
+    bottom: 530px;
+   right: 600px;
+    height: 50px;
+    width: 300px;
+}
+.das3 li:hover{ 
+    color: aqua;
+   
+}
+.das3 li {
+    margin: 10px;
+    float: left;
+}

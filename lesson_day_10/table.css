@@ -1,0 +1,76 @@
+.ttt {
+    width: 700px;
+
+}
+
+.tete {
+    margin: auto;
+   
+}
+
+.ttt th {
+    padding: 7px 2px;
+}
+
+.ttt td {
+    padding: 7px 2px;
+}
+
+.tete th {
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+.tete td {
+    padding: 6px;
+}
+
+.toto {
+    margin: auto;
+} 
+
+.toto th {
+    padding: 5px;
+    border-bottom: 2px solid #AAC8A7;
+    border-top: 1px solid  #C3EDC0;
+}
+
+.toto td {
+    padding: 5px;
+    text-align: center;
+    border-top: #C3EDC0;
+
+}
+
+.toto .name {
+    text-align: left;
+}
+.tete th {
+    border-bottom: 2px solid #f7c8e0;
+    border-top: 1px solid #ffd4b4;
+}
+.even {
+    background-color: #f8e8ee;
+}
+.odd {
+    background-color: #f8e8ee;
+}
+.odde {
+    background-color: #fef3f0;
+}
+.okey {
+    background-color: green;
+}
+.okk {
+    border-spacing: 0;
+}
+
+
+.okk th, td {
+    padding: 10px;
+}
+.oke {
+   background-color: rgb(223, 223, 223); 
+   color: green;
+}
