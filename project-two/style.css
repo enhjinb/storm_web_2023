@@ -1,0 +1,32 @@
+.h11 {
+    background-color: rgba(0, 0, 0, 0.77);
+    height: 70px;
+   text-align: center;
+   font-size: 40px;
+}
+.h33 {
+    background-color:rgba(128, 128, 128, 0.175) ;
+
+}
+ /* .h22 {
+    
+    position: absolute;
+    bottom: 0;
+    height: 180px;
+    width: 100%;
+}
+     */
+
+ footer {
+    position: absolute;
+    height: 250px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.77);
+    text-align: center;
+ }  
+ .h22{
+    display: flex;
+    justify-content: center;
+    gap: calc(40px);
+    font-size:small ;
+ }  
