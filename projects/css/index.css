@@ -1,0 +1,13 @@
+body {
+    background-color: lavenderblush;
+}
+
+.color {
+    font-style: italic;
+    color: palevioletred
+}
+
+.text {
+    font-style: italic;
+    color: rgb(250, 128, 148);
+}
