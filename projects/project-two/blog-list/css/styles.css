@@ -1,0 +1,135 @@
+#page {
+    max-width: 1037px;
+    margin: auto;
+}
+
+header {
+    height: 180px;
+    width: 100%;
+    background-color: rgba(8, 44, 60, 0.73);
+    text-align: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+    gap: calc(40px);
+    font-size: small;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.grey {
+    color: darkgray;
+}
+
+.unguu {
+    display: flex;
+
+    gap: calc(10px);
+    font-size: small;
+}
+
+.h44 {
+    background-color: rgb(132, 128, 128);
+    height: 20px;
+}
+
+.h55 {
+    background-color: lawngreen;
+}
+
+.h66 {
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+
+.haha {
+    display: flex;
+    gap: calc(10px);
+    font-size: small;
+}
+
+.oooo {
+    background-color: crimson;
+    height: 20px;
+}
+
+
+.suulih {
+    display: flex;
+    gap: calc(10px);
+    font-size: small;
+}
+
+#zurag2 {
+    color: white;
+    font-size: 40px;
+}
+
+
+.pic1 {
+    height: 350px;
+    width: 400px;
+}
+
+.pic2 {
+    height: 350px;
+    width: 400px;
+}
+.zurag1 {
+
+    height: 150px;
+    width: 100%;
+    background-color: rgba(8, 44, 60, 0.73);
+    text-align: center;
+}
+
+
+
+.zurag11 {
+    width: 515px;
+    height: 320px;
+}
+
+.zurag22 {
+    width: 515px;
+    height: 320px;
+}
+
+.eregteizurag1 {
+    display: contents;
+    justify-content: space-between;
+}
+
+.hahaha {
+    display: flex;
+    justify-content: space-between;
+}
+
+.eeuu {
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+
+.eregtei {
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+
+.duuslaa {
+    display: flex;
+    justify-content: space-between;
+}
+.zaza {
+    display: flex;
+    gap: calc(10px);
+    font-size: small
+}
