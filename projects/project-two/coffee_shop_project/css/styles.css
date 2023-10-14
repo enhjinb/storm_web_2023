@@ -1,0 +1,197 @@
+#page {
+    max-width: 1790px;
+    margin: 0 auto;
+
+}
+
+header {
+    background-image: url('../imgs/coffee.jpeg');
+    background-size: cover;
+    height: 500px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(79, 62, 62);
+}
+
+#banner {}
+
+#banner-text {
+    color: white;
+
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 45px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.p1 {
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
+}
+
+.menu {
+    display: flex;
+    padding: 11.99px 30px 13.49px 30px;
+    flex-direction: column;
+    align-items: center;
+    background: #C69B7B;
+    color: white;
+
+}
+
+.table {
+    display: flex;
+    padding: 11.99px 30.1px 13.49px 30.3px;
+    flex-direction: column;
+    align-items: center;
+    background: #603601;
+    color: white;
+}
+
+.tablemenu {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.nav1 {
+    color: white;
+    display: flex;
+    gap: calc(10px);
+    font-size: small;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.nav2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+.logo1 {
+    display: flex;
+    gap: calc(10px);
+    font-size: small
+}
+
+.logo2 {
+    width: 25px;
+    height: 25px;
+}
+
+.coffee1 {
+    width: 100%;
+    height: 400px;
+}
+
+.logo3 {
+    display: flex;
+    justify-content: space-between;
+    width: 40px;
+    height: 20px;
+}
+
+.tuv {
+    display: flex;
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#tuv {
+    display: flex;
+    justify-content: center;
+    color: rgb(102, 74, 74);
+}
+
+.width {
+    height: 446px;
+    width: 446px;
+    top: -149.46px;
+    left: -0.02px;
+}
+
+.coffee2 {
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    height: 450px;
+}
+
+.h11 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+
+.div33 {
+    color: #666;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.8px;
+    /* 180% */
+}
+
+.about-us-desc {
+    margin-left: 40px;
+}
+.button-contact {
+    display: inline-flex;
+padding: 12px 30.56px 13.48px 30px;
+align-items: flex-start;
+background: #603601;
+color: white;
+}
+.flex-services {
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: normal; display: flex;
+justify-content: center;
+}
+.flex-line {
+    display: flex;
+    justify-content: center;
+    color: rgb(102, 74, 74);
+}
+.coffeebean {
+    height: 200px;
+    width: 300px;
+}
