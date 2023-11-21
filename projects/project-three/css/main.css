@@ -1,0 +1,31 @@
+header {
+    height: 70px;
+    background-color: #013560;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+ul li {
+    list-style: none;
+    
+}
+ul {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ gap: 30px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 2.5px;
+}
+.logohw {
+    height: 30px;
+    width: 30px;
+}
+.logo h4 {
+font-family: Roboto;
+}
