@@ -1,5 +1,6 @@
 header {
     height: 70px;
+    width: 1430px;
     background-color: #013560;
     display: flex;
     justify-content: space-evenly;
@@ -9,23 +10,63 @@ header {
 
 ul li {
     list-style: none;
-    
+
 }
+
 ul {
- display: flex;
- justify-content: space-between;
- align-items: center;
- gap: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
 }
+
 .logo {
     display: flex;
     align-items: center;
     gap: 2.5px;
 }
+
 .logohw {
     height: 30px;
     width: 30px;
 }
+
 .logo h4 {
+    font-family: Roboto;
+}
+
+.background {
+    height: 450px;
+    background-position: center;
+    background-image: url('../img/biz-header.jpg');
+    background-size: cover;
+    
+}
+.h1center {
+   text-align: center;
+}
+main {
+    color: white;
+}
+
+
+.main-button {
+    color: #FFF;
+text-align: center;
 font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1px;
+ 
+}
+.h1234h {
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
 }
